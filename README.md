@@ -1,5 +1,8 @@
 # Javascript Landing Page
+Webpage that includes the navbar feature.
 
+# Languages Used
 
-# Topic: Ways to Eat a Steak
-
+* HTML
+* CSS
+* Javascript
