@@ -1,5 +1,5 @@
 # Javascript Landing Page
-Webpage that includes the navbar feature.
+Webpage that includes a navbar feature.
 
 # Languages Used
 
